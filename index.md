@@ -9,9 +9,9 @@ Software Engineer & Open Source Developer
 
 ## Connect
 
-* [**GitHub Profile**](https://www.google.com/search?q=https://github.com/andy-mccoy)
+* [**GitHub**](https://www.google.com/search?q=https://github.com/andy-mccoy)
 
-* [**LinkedIn Profile**](https://www.linkedin.com/in/andy-mccoy-573b4333/)
+* [**LinkedIn**](https://www.linkedin.com/in/andy-mccoy-573b4333/)
 
 ## About
 
@@ -35,7 +35,7 @@ As a software engineer, I specialize in platform and infrastructure engineering.
 
 * [View GitHub Repository](https://github.com/unfaresf)
 
-### 9❤️5 (Workplace Dating App)
+### 9❤️5
 
 *A dedicated platform for workplace dating.*
 
