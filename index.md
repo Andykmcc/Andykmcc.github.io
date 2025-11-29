@@ -46,3 +46,11 @@ As a software engineer, I specialize in platform and infrastructure engineering.
 *A platform that brings the power of machine learning and AI to law firms.*
 
 * *(Private Project - Enterprise Solution)*
+
+### Habit Tracker
+
+*A PWA to track your habits. Client side only. Vue.js, Vite, and Pinia. Github Pages Deployment.*
+
+* [View Site](https://habit.andykmccoy.com/)
+
+* [View GitHub Repository](https://github.com/Andykmcc/habit-tracker)
